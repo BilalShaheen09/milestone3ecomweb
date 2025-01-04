@@ -2,40 +2,40 @@ export default function handler(req, res) {
     const products = [
         {
             id: 1,
-            name:" Baby Girls Dresses",
-            price: 4500,
-            image:"https://shopatziva.com/cdn/shop/files/DSC04148.jpg?v=1715158696&width=600"
+            name:" Audionic Earbuds",
+            price: 5000,
+            image:"https://audionic.co/cdn/shop/files/AirbudSignatureS680-Image-2_4_copy_255x255.png?v=1731418186"
         },
 
         {
             id: 2 ,
-            name:"Baba Boy Dresses",
-            price: 4500,
-            image:"https://www.nihalfashions.com/media/catalog/product/cache/441933f201159ac6aa81e856d506a0a3/b/l/black-imported-boys-indo-western-nkk-805.jpg"
+            name:"Airbud 590",
+            price: 3900,
+            image:"https://audionic.co/cdn/shop/files/AirBud-590Image-3_copy_255x255.png?v=1731502011"
         },
         {
             id: 3,
-            name:"Ladies Bag",
-            price: 850,
-            image:"https://m.media-amazon.com/images/I/61GpT8+nFXL._AC_SL1008_.jpg"
+            name:"Masti Bluetooth Speaker",
+            price: 8500,
+            image:"https://audionic.co/cdn/shop/files/audionic-default-title-classic-masti-85-bluetooth-speaker-34651855650972_3_copy_1_copy_255x255.png?v=1732624005"
         },
         {
             id: 4,
-            name:"Mens Items",
+            name:"Solo x110",
             price: 7500,
-            image:"https://cdn.shopify.com/s/files/1/0075/3929/4305/files/EASTER_OUTFIT_045-1167x1201-f9b9207_350x350.jpg?v=1647313755"
+            image:"https://audionic.co/cdn/shop/files/SoloX110-1_255x255.png?v=1732873934"
         },
         {
             id: 5,
-            name:"Kids Shoes",
-            price: 3000,
-            image:"https://shoezero.com/cdn/shop/articles/stylish_kids_shoes_with_background_playground.webp?v=1694215917&width=2048"
+            name:"PlayStation®5 Digital Edition (slim)",
+            price: 30000,
+            image:"https://m.media-amazon.com/images/I/51fM0CKG+HL._SX522_.jpg"
         },
         {
             id: 6,
-            name:"Shoes",
-            price: 5000,
-            image:"https://baccabucci.com/cdn/shop/products/MG_5242.jpg?v=1633514122"
+            name:"DEWALT 20V MAX Cordless Drill",
+            price: 50000,
+            image:"https://m.media-amazon.com/images/I/61oeYCtViNL._AC_SX679_.jpg"
         },
     ];
 
